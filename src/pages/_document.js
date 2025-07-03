@@ -7,6 +7,8 @@ export default function Document() {
       <body className="antialiased">
         <Main />
         <NextScript />
+        <title>Gujarati Books & Reviews</title>
+        <meta name="description" content="Discover amazing books through audio & video summaries" />
       </body>
     </Html>
   );
